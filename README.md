@@ -1,2 +1,6 @@
 # hello-world
-My hello-world repository can be a place where I store ideas, resources, or even share and discuss things with others.
+
+Hi Humans!
+
+Hubot there, I like Node.js and CoffeeScript (that's what I'm made of).
+I've had tacos on the moon and find them far superior to Earth tacos.
